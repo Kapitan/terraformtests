@@ -1,0 +1,8 @@
+aws_key         = "wordpresskey"
+itype           = "t2.micro"
+suser           = "centos"
+sport           = "22"
+networkpriv     = "10.10.10.0/24"
+networkpub      = "10.10.11.0/24"
+vpcnet          = "10.0.0.0/16"
+alb_name        = "tryone"
